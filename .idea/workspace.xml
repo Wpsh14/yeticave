@@ -2,74 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="371bcebf-fdec-463b-b5a5-4d10f4c415af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/yeticave.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/flatpickr.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/normalize.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flatpickr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/opensans-bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/opensans-bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/opensans-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/opensans-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsansbold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsansbold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helpers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/category-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/category-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/category-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/category-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/category-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/category-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/check.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/date.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dropdown.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/error.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/htmlacademy.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/instagram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lot-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lot-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lot-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lot-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lot-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lot-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lot-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/promo-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rate1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rate2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rate3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rate4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rate5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rate6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rate7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rub.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/search.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/timer.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/user.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/vkontakte.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/add-lot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/all-lots.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/lot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/my-bets.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/sign-up.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +25,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -110,8 +49,13 @@
       <workItem from="1614592344510" duration="323000" />
       <workItem from="1614592679513" duration="10000" />
       <workItem from="1614592699192" duration="3548000" />
+      <workItem from="1614600665345" duration="558000" />
+      <workItem from="1614667761772" duration="1562000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -123,5 +67,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
