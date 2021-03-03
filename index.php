@@ -49,6 +49,18 @@ $data_list = [
         'gif' => 'img/lot-6.jpg'
     ]
 ];
+function Sum_Price($sum, $withRubleElem)
+{
+    ceil($sum);
+    if($sum<1000)
+    {
+        return $sum;
+    }
+    else
+    {
+        $sum = number_format ($sum, 0, '.', ' ');
+    }
+}
 ?>
 <!DOCTYPE html>
 <html lang="ru">
