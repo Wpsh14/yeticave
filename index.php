@@ -49,16 +49,26 @@ $data_list = [
         'gif' => 'img/lot-6.jpg'
     ]
 ];
-function Sum_Price($sum, $withRubleElem)
+function sum_format ($number)
 {
-    ceil($sum);
-    if($sum<1000)
+    $withRubleElem=true;
+    $number=ceil($number);
+    $price=$number;
+    if ($number>=1000)
     {
-        return $sum;
+        $price= number_format ($number,0, '.', ' ');
     }
     else
     {
-        $sum = number_format ($sum, 0, '.', ' ');
+        $price=$number;
+    }
+    if ($withRubleElem=true)
+    {
+        return $price . '<b class=\"rub\">р</b></b>';
+    }
+    else
+    {
+        return $price;
     }
 }
 ?>
@@ -139,7 +149,7 @@ function Sum_Price($sum, $withRubleElem)
                         <div class="lot__state">
                             <div class="lot__rate">
                                 <span class="lot__amount">Стартовая цена</span>
-                                <span class="lot__cost"><?=$lot['price'];?><b class="rub">р</b></span>
+                                <span class="lot__cost"><?=sum_format($lot['price']);?></span>
                             </div>
                             <div class="lot__timer timer">
                                 12:23
